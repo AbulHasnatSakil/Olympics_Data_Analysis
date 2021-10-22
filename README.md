@@ -7,7 +7,7 @@
 ## Project Questions
 
 
-- Find In which events did Edwin Flack win a medal?
+- Find In which events did Edwin FLACK win a medal?
 - Which country has won the most men's gold medals in Athletics over the years? Sort the results alphabetically by the player's names.
 - How many gold medals the Indian Men's have won and name the event also?
 - Check to see how many Indian women's have won the gold, silver or bronze medals in the Olympic games?
